@@ -1,0 +1,19 @@
+Customer Churn Prediction Dashboard
+
+I built an interactive Streamlit app for predicting customer churn using the IBM Telco Customer Churn dataset.
+
+Key features:
+- Cleaned and preprocessed customer data
+- Built Logistic Regression and Decision Tree models
+- Compared model performance with accuracy and ROC-AUC
+- Added interactive EDA charts and churn prediction inputs
+- Designed a dark theme UI for quick business insight
+
+Results:
+- Logistic Regression accuracy: ~80.4%
+- Decision Tree accuracy: ~78.8%
+- Best model: Logistic Regression
+
+This project is a great example of turning data into actionable business intelligence for customer retention strategies.
+
+#DataScience #MachineLearning #Streamlit #CustomerChurn #Python #Analytics
